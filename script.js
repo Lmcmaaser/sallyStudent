@@ -27,8 +27,12 @@ function App(props) {
                     <h2>Related Experience</h2>
                     <h3>Boston College</h3> 
                     <h4>IT Help Desk Technician, September 2013-May 2015</h4> 
+                    <p>Provided a centralized resource to answer questions, troubleshoot problems, and facilitate solutions to known problems.</p>
                     <h3>Family Dental</h3>
                     <h4>Receptionist, August 2011-August 2013</h4>
+                    <p>Greeted and assissted patients the moment they entered the office.</p>
+                    <p>Made appointments for patients and maintained their accounts. </p>
+                    <p>They help coordinate the dentist's schedule and bill patients and their insurance companies.</p>
                 </section>
                 <section>
                     <h2>My Skills</h2>
