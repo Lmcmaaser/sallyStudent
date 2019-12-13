@@ -26,3 +26,15 @@ section {
     margin-right: 15px;
     margin-left: 15px;
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border-radius: 8px;
+}
+
+address {
+    display: block;
+}

@@ -10,15 +10,9 @@ function App(props) {
             <main>
                 <section>
                     <img src="https://m.media-amazon.com/images/M/MV5BMTY5NzE3NzU3MF5BMl5BanBnXkFtZTgwMjg0NTQ5MDE@._V1_.jpg" alt="An image of Sally Student" height="200px"/>
-                </section>
-                <section>
                     <address>
-                        <div>
-                            <a href="tel:+13115552368">(555)555-5555 </a>
-                        </div>
-                        <div>
-                        <a href="mailto:you@example.com">Email</a>
-                        </div>   
+                        <a href="tel:+13115552368">(555)555-5555 </a>
+                        <a href="mailto:you@example.com">Email</a>   
                     </address>
                 </section>
                 <section>
