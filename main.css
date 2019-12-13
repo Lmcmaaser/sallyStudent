@@ -15,6 +15,18 @@ button:hover {
     cursor: pointer;
 }
 
+header {
+    background-color: white;
+    border: solid;
+    border-color: black;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-left: 15px;
+    text-align: left; 
+}
+
 section {
     position: relative;
     background-color: white;
@@ -32,10 +44,34 @@ img {
     margin-left: auto;
     margin-right: auto;
     padding: 15px;
-    width: 40%;
+    width: auto;
     border-radius: 8px;
 }
 
-address {
+address, p {
     display: block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+@media only screen and (min-width: 600px) {
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 15px;
+        width: auto;
+        border-radius: 8px;
+    }
+}
+
+@media only screen and (min-width: 1000px) {
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 15px;
+        width: auto;
+        border-radius: 8px;
+    }
 }
