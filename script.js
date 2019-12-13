@@ -7,6 +7,7 @@ function App() {
             
             <main>
                 <section>
+                    <h1>Sally Student</h1>
                     <address>
                         <img src="https://m.media-amazon.com/images/M/MV5BMTY5NzE3NzU3MF5BMl5BanBnXkFtZTgwMjg0NTQ5MDE@._V1_.jpg" alt="An image of Sally Student" height="200px"/>
                         <a href="tel:+13115552368">(555)555-5555</a>
