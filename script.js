@@ -11,8 +11,8 @@ function App(props) {
                 <section>
                     <img src="https://m.media-amazon.com/images/M/MV5BMTY5NzE3NzU3MF5BMl5BanBnXkFtZTgwMjg0NTQ5MDE@._V1_.jpg" alt="An image of Sally Student" height="200px"/>
                     <address>
-                        <a href="tel:+13115552368">(555)555-5555 </a>
-                        <a href="mailto:you@example.com">Email</a>   
+                        <p><a href="tel:+13115552368">(555)555-5555 </a></p>
+                        <p><a href="mailto:you@example.com">Email</a> </p>  
                     </address>
                 </section>
                 <section>
